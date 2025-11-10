@@ -1,2 +1,2 @@
 # nie-training
-first code :
+first code :q
