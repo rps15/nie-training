@@ -1,1 +1,2 @@
 # nie-training
+first code :
